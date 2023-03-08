@@ -1,0 +1,61 @@
+([('Chromedriver_Update.exe',
+   'C:\\Users\\data-log\\Documents\\Saw_Scrape_V3\\pymodules\\build\\Chromedriver_Update\\Chromedriver_Update.exe',
+   'EXECUTABLE'),
+  ('Chromedriver_Update.exe.manifest',
+   'C:\\Users\\data-log\\Documents\\Saw_Scrape_V3\\pymodules\\build\\Chromedriver_Update\\Chromedriver_Update.exe.manifest',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python37.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\python37.dll',
+   'BINARY'),
+  ('_socket',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\data-log\\Documents\\Saw_Scrape_V3\\pymodules\\build\\Chromedriver_Update\\base_library.zip',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\Include\\pyconfig.h',
+   'DATA')],)
